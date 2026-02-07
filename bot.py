@@ -10,7 +10,7 @@ from langchain_community.llms.ollama import Ollama
 import os
 
 
-TOKEN = "7515721140:AAEWGYr2zHb9h6PSe6JGMm3KfYqKj4RY_NA"
+TOKEN = "tg_token"
 DOCS_PATH = "./docs"
 DB_PATH = "./chroma_db"
 
